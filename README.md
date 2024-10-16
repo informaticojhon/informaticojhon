@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Jhon Chiguay]
 
-Soy ["Desarrollador de aplicaciones FrontEnd"]. Me especializo en **[tecnologías principales, como JavaScript, CSS, etc.]**
+**Soy Desarrollador de aplicaciones FrontEnd**. Me especializo en **[tecnologías principales, como JavaScript, CSS, etc.]**
 ## 🌱 Actualmente aprendiendo
 - [Nodejs, Vuejs, Sass,  Bootstrap, Firebase]
 
