@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Jhon Chiguay]
+# ¡Hola! 👋 Soy Jhon Chiguay Nahuelhuen
 
 **Soy Desarrollador de aplicaciones FrontEnd**. Me especializo en **[tecnologías principales, como JavaScript, CSS, etc.]**
 ## 🌱 Actualmente aprendiendo
