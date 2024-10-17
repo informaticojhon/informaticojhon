@@ -20,4 +20,4 @@
 - **LinkedIn**: [https://www.linkedin.com/in/jhon-alan-81487860/)
 
 ## ⚡ Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=informaticojhon&show_icons=true&theme=tokyonight)
