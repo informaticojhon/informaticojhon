@@ -1,18 +1,11 @@
 # ¡Hola! 👋 Soy Jhon Chiguay Nahuelhuen
 
-**Soy Desarrollador de aplicaciones FrontEnd**. Me especializo en **tecnologías principales, como JavaScript, CSS, etc.**
+- 🎓 Completé el bootcamp de **Desafío Latam** especializado en desarrollo web front end.
+- 🔭 Actualmente, estoy trabajando en proyectos personales y colaborando en código abierto.
+- 🌱 Estoy aprendiendo **Vue.js** y profundizando en **Firebase** para aplicaciones en tiempo real.
+- 💬 Me encanta compartir conocimientos y ayudar a otros desarrolladores.
+- ⚡ En mi tiempo libre, disfruto jugando videojuegos como **Tears of the Kingdom** y explorando nuevas tecnologías.
 
-
-## 👨‍💻 Habilidades y Tecnologías
-
-### Frontend:
-- **Vue.js**, **Bootstrap**
-
-### Backend:
-- **Node.js**
-
-### Pruebas:
-- **Jest**
 
 ### Tecnologías y herramientas que uso:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -31,7 +24,7 @@
 
 ## 📫 Cómo contactarme
 - **Correo**: [jhonalan@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/jhon-alan-81487860/](https://www.linkedin.com/in/jhon-alan-chiguay-nahuelhuen-81487860/)
+- **LinkedIn**: (https://www.linkedin.com/in/jhon-alan-chiguay-nahuelhuen-81487860/)
 
 ## ⚡ Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=informaticojhon&show_icons=true&theme=tokyonight)
