@@ -31,7 +31,7 @@
 
 ## 📫 Cómo contactarme
 - **Correo**: [jhonalan@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/jhon-alan-81487860/)
+- **LinkedIn**: [https://www.linkedin.com/in/jhon-alan-81487860/](https://www.linkedin.com/in/jhon-alan-chiguay-nahuelhuen-81487860/)
 
 ## ⚡ Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=informaticojhon&show_icons=true&theme=tokyonight)
